@@ -1,5 +1,6 @@
 # iot-watchdog
-七）项目主要内容
+平时学业较重，更新项目较慢
+项目主要内容
 1、主板
 FireBeetle Board-ESP32主板控制器
 2、FireBeetle传感器扩展板
